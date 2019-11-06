@@ -18,7 +18,7 @@
   align-items: flex-start;
 }
 
-.quadrato {
+.riga div {
   width: calc(100% / 8);
   height: calc(100vh / 8);
   border: 1px solid black;
@@ -26,10 +26,10 @@
 
 /* classi colori */
 
-.verde {
+/* .green {
   background-color: green;
 }
 
-.rosso {
+.red {
   background-color: red;
-}
+} */
