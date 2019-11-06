@@ -4,3 +4,20 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+#griglia {
+  width: 80%;
+  height: 100vh;
+  border-right: 1px solid black;
+}
+
+.riga {
+  display: flex;
+  align-items: flex-start;
+}
+
+.quadrato {
+  width: calc(100% / 8);
+  height: calc(100vh / 8);
+  border: 1px solid black;
+}
