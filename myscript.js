@@ -5,6 +5,10 @@
 
 // $(".quadrato").css("background", "green");
 
-$(".quadrato").click(function(){
-  $(this).css("background", "green");
-});
+// $(".quadrato").click(function(){
+//   $(this).css("background", "green");
+// });
+
+// $(".rosso").click(function(){
+//   $(this).addClass("background", "red")
+// });
