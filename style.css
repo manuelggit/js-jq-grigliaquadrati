@@ -5,6 +5,8 @@
   box-sizing: border-box;
 }
 
+/* griglia */
+
 #griglia {
   width: 80%;
   height: 100vh;
@@ -20,4 +22,10 @@
   width: calc(100% / 8);
   height: calc(100vh / 8);
   border: 1px solid black;
+}
+
+/* classi colori */
+
+.verde {
+  background-color: green;
 }
