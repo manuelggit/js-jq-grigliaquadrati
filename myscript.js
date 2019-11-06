@@ -3,7 +3,7 @@
 // gli altri diventano verdi (tutti i rimanennti)
 // Opzionale: Sopra alla griglia deve esserci un contatore che conta quanti rossi e quanti verdi sono stati scoperti
 
-// $( document ).ready(function() {
+$( document ).ready(function() {
 
   $(".verde").click(function(){
     $(this).css("background-color", "green");
@@ -13,11 +13,4 @@
     $(this).css("background-color", "red");
   });
 
-  // $(".quadrato").click(function(){
-  //   $(this).css("background", "green");
-  // });
-
-
-
-
-// }
+});

@@ -5,6 +5,9 @@
   box-sizing: border-box;
 }
 
+
+
+
 /* griglia */
 
 #griglia {
@@ -23,13 +26,3 @@
   height: calc(100vh / 8);
   border: 1px solid black;
 }
-
-/* classi colori */
-
-/* .green {
-  background-color: green;
-}
-
-.red {
-  background-color: red;
-} */
